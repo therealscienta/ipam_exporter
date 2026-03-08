@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Prometheus data
+*.db
+*.prom
+
+# Environment
+.env
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+
+# Claude
+AGENTS.md
+.claude
